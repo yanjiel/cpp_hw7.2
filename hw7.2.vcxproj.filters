@@ -18,5 +18,8 @@
     <ClCompile Include="hw7.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="goof.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
